@@ -1,0 +1,65 @@
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.AssemblyReference.cache
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.Properties.Resources.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.GenerateResource.cache
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.CoreCompileInputs.cache
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Ingreso.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Menu.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Personal.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe.config
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.pdb
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.exe
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.AssemblyReference.cache
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Ingreso.resources
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Menu.resources
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Personal.resources
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.Properties.Resources.resources
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.GenerateResource.cache
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\ASTORGA\Downloads\TrabajoPrácticoIntegrador\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.AssemblyReference.cache
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.CategoriasPlato.resources
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Ingreso.resources
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Menu.resources
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Personal.resources
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Properties.Resources.resources
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.GenerateResource.cache
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\ASTORGA\Downloads\TrabajoPracticoIntegrador\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.AcercaDe.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\bin\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.AcercaDe.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.CategoriasPlato.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Ingreso.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Menu.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Personal.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.Properties.Resources.resources
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPracticoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\User\Desktop\TrabajoPracticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentacion.AcercaDe.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentacion.CategoriasPlato.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Main.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Menu.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentacion.Personal.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Properties.Resources.resources
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.pdb

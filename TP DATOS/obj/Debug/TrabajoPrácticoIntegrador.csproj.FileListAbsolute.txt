@@ -1,0 +1,5 @@
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.csproj.AssemblyReference.cache
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.frmRestaurante.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.Properties.Resources.resources
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.csproj.GenerateResource.cache
+D:\TUP\Programación Lógica\TPI\TrabajoPrácticoIntegrador\obj\Debug\TrabajoPrácticoIntegrador.csproj.CoreCompileInputs.cache
