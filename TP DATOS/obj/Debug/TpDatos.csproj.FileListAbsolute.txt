@@ -11,3 +11,16 @@ C:\Users\User\Desktop\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.exe.config
 C:\Users\User\Desktop\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.exe
 C:\Users\User\Desktop\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.pdb
 C:\Users\User\Desktop\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentation.Placeholder.resources
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\bin\Debug\TrabajoPrácticoIntegrador.pdb
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TpDatos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.exe.config
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentacion.AcercaDe.resources
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Presentation.Placeholder.resources
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Main.resources
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPracticoIntegrador.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TpDatos.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TpDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.exe
+C:\Users\User\Documents\GitHub\tp-bases-de-datos-i-grupo-13\TP DATOS\obj\Debug\TrabajoPrácticoIntegrador.pdb

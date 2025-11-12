@@ -48,7 +48,7 @@ namespace TrabajoPracticoIntegrador
 
         private void btnSalir(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Seguro que desea Salir?", "Saliendo",
+            if (MessageBox.Show("¿Está seguro de que desea salir?", "Salir",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question,
                 MessageBoxDefaultButton.Button2) == DialogResult.Yes)
